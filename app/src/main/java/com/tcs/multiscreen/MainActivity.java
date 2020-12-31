@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static PayPalConfiguration configuration = new PayPalConfiguration()
             .environment(PayPalConfiguration.ENVIRONMENT_SANDBOX)
-            .clientId("AcoaO0gEOI9MUavGOeMPC1kBajysZp5Ivr6RtW70lKMqWde_0v7z2IDKE6NfVWSSAEIHMtqzgmCA9QmI");
+            .clientId("YOUR PAYPAL CCLIENT ID HERE");
 
     private Button btnPayNow;
     private EditText edtAmount;
